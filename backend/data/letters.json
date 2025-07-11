@@ -1,0 +1,178 @@
+[
+  {
+    "symbol": "א",
+    "name": "Alef",
+    "sound": "Silencio / glotal",
+    "value": 1,
+    "meaning": "Unidad, Dios, lo invisible",
+    "action": "Inicia el ciclo, representa el origen puro antes de toda manifestación"
+  },
+  {
+    "symbol": "ב",
+    "name": "Bet",
+    "sound": "B",
+    "value": 2,
+    "meaning": "Casa, contenedor, dualidad",
+    "action": "Crea una estructura donde algo puede manifestarse"
+  },
+  {
+    "symbol": "ג",
+    "name": "Guímel",
+    "sound": "G",
+    "value": 3,
+    "meaning": "Dar, acción, movimiento hacia el otro",
+    "action": "Activa el flujo, movimiento inicial desde lo divino hacia lo creado"
+  },
+  {
+    "symbol": "ד",
+    "name": "Dálet",
+    "sound": "D",
+    "value": 4,
+    "meaning": "Puerta, humildad, receptividad",
+    "action": "Abre caminos, conecta dimensiones"
+  },
+  {
+    "symbol": "ה",
+    "name": "Hei",
+    "sound": "H suave",
+    "value": 5,
+    "meaning": "Aliento divino, revelación",
+    "action": "Manifiesta lo oculto, revela el espíritu en la materia"
+  },
+  {
+    "symbol": "ו",
+    "name": "Vav",
+    "sound": "V",
+    "value": 6,
+    "meaning": "Conexión, gancho, unión cielo-tierra",
+    "action": "Une conceptos o mundos, establece relaciones"
+  },
+  {
+    "symbol": "ז",
+    "name": "Zain",
+    "sound": "Z",
+    "value": 7,
+    "meaning": "Espada, lucha espiritual, protección",
+    "action": "Corta la ilusión, protege lo esencial"
+  },
+  {
+    "symbol": "ח",
+    "name": "Jet",
+    "sound": "J gutural",
+    "value": 8,
+    "meaning": "Vida, barrera, lo que separa",
+    "action": "Delimita y contiene energía vital"
+  },
+  {
+    "symbol": "ט",
+    "name": "Tet",
+    "sound": "T",
+    "value": 9,
+    "meaning": "Bien escondido, potencial latente",
+    "action": "Encierra el bien oculto que se revelará"
+  },
+  {
+    "symbol": "י",
+    "name": "Yod",
+    "sound": "Y",
+    "value": 10,
+    "meaning": "Semilla divina, chispa de creación",
+    "action": "Activa la intención semilla del universo"
+  },
+  {
+    "symbol": "כ",
+    "name": "Kaf",
+    "sound": "K",
+    "value": 20,
+    "meaning": "Palma de la mano, poder de moldear",
+    "action": "Moldea la realidad, canaliza el flujo"
+  },
+  {
+    "symbol": "ל",
+    "name": "Lámed",
+    "sound": "L",
+    "value": 30,
+    "meaning": "Aprendizaje, guía, dirección",
+    "action": "Enseña, dirige la conciencia hacia arriba"
+  },
+  {
+    "symbol": "מ",
+    "name": "Mem",
+    "sound": "M",
+    "value": 40,
+    "meaning": "Agua, fluidez, conocimiento oculto",
+    "action": "Fluye, transforma, revela sabiduría"
+  },
+  {
+    "symbol": "נ",
+    "name": "Nun",
+    "sound": "N",
+    "value": 50,
+    "meaning": "Pez, humildad, fe",
+    "action": "Desciende y se adapta, confía en lo profundo"
+  },
+  {
+    "symbol": "ס",
+    "name": "Samej",
+    "sound": "S",
+    "value": 60,
+    "meaning": "Soporte, círculo de protección",
+    "action": "Envuelve, da contención, sostiene"
+  },
+  {
+    "symbol": "ע",
+    "name": "Ayin",
+    "sound": "Silencio gutural",
+    "value": 70,
+    "meaning": "Ojo, percepción, visión interior",
+    "action": "Mira con el alma, abre la percepción interna"
+  },
+  {
+    "symbol": "פ",
+    "name": "Pei",
+    "sound": "P",
+    "value": 80,
+    "meaning": "Boca, expresión, poder de hablar",
+    "action": "Expresa, decreta, da forma con la palabra"
+  },
+  {
+    "symbol": "צ",
+    "name": "Tzadi",
+    "sound": "TS",
+    "value": 90,
+    "meaning": "Justicia, humildad ante lo divino",
+    "action": "Sostiene el equilibrio a través de la rectitud"
+  },
+  {
+    "symbol": "ק",
+    "name": "Kuf",
+    "sound": "K gutural",
+    "value": 100,
+    "meaning": "Santidad aparente, paradoja",
+    "action": "Manifiesta lo sagrado incluso en lo profano"
+  },
+  {
+    "symbol": "ר",
+    "name": "Resh",
+    "sound": "R",
+    "value": 200,
+    "meaning": "Cabeza, inicio, pobreza espiritual",
+    "action": "Permite comenzar desde el vacío"
+  },
+  {
+    "symbol": "ש",
+    "name": "Shin",
+    "sound": "Sh",
+    "value": 300,
+    "meaning": "Fuego, transformación, trinidad",
+    "action": "Transforma a través del fuego interior"
+  },
+  {
+    "symbol": "ת",
+    "name": "Tav",
+    "sound": "T",
+    "value": 400,
+    "meaning": "Marca, final, completitud",
+    "action": "Concluye, sella el proceso con sentido"
+  }
+]
